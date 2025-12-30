@@ -30,6 +30,7 @@
   ],
   "author": "casudin",
   "email": "casudin.dev@gmail.com",
+  "url": "https://github.com/casudinlix/express-starter-fremaworks",
   "license": "MIT",
   "dependencies": {
     "axios": "^1.6.2",
